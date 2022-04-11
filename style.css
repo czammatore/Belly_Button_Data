@@ -1,0 +1,13 @@
+body {
+    color: #000000;
+    background-color: rgb(221, 225, 225);
+}
+.tag {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 1rem;
+   }  
+.jumbotron {
+    background-image: url("/Users/christiannaweisert/Desktop/Class_Folder/12-BB/Belly-Button-Biodiversity/Static/Images/navel-bacteria2.jpeg");
+    background-size: 100% 100%;
+    text-align: center;
+}
